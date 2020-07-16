@@ -8,10 +8,10 @@ Adtech solutions at [BMIND](https://github.com/bmind)
 - 📫 How to reach me: twitter/LinkedIn!
 
 <a href="https://twitter.com/gonzamvita">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gonzamvita">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 <br />
