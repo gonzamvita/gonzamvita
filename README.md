@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Solutions Engineer at [Zeotap]([https://github.com/bmind](https://github.com/zeotap))
+Solutions Engineer at [Zeotap](https://github.com/zeotap)
 
 - 🔭 I’m currently working on advertising technology
 - 🌱 I’m interested right now in PWA apps.
